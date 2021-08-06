@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/GitWeatherApp/static/css/main.0eb18f24.chunk.css",
+    "main.js": "/GitWeatherApp/static/js/main.66079df7.chunk.js",
+    "main.js.map": "/GitWeatherApp/static/js/main.66079df7.chunk.js.map",
+    "runtime-main.js": "/GitWeatherApp/static/js/runtime-main.f1cf5a01.js",
+    "runtime-main.js.map": "/GitWeatherApp/static/js/runtime-main.f1cf5a01.js.map",
+    "static/css/2.679831fc.chunk.css": "/GitWeatherApp/static/css/2.679831fc.chunk.css",
+    "static/js/2.b8a37a45.chunk.js": "/GitWeatherApp/static/js/2.b8a37a45.chunk.js",
+    "static/js/2.b8a37a45.chunk.js.map": "/GitWeatherApp/static/js/2.b8a37a45.chunk.js.map",
+    "index.html": "/GitWeatherApp/index.html",
+    "static/css/2.679831fc.chunk.css.map": "/GitWeatherApp/static/css/2.679831fc.chunk.css.map",
+    "static/css/main.0eb18f24.chunk.css.map": "/GitWeatherApp/static/css/main.0eb18f24.chunk.css.map",
+    "static/js/2.b8a37a45.chunk.js.LICENSE.txt": "/GitWeatherApp/static/js/2.b8a37a45.chunk.js.LICENSE.txt",
+    "static/media/cloud.be1cdf30.svg": "/GitWeatherApp/static/media/cloud.be1cdf30.svg",
+    "static/media/cloudy-1.2e47ca13.svg": "/GitWeatherApp/static/media/cloudy-1.2e47ca13.svg",
+    "static/media/night-1.8efa2ed4.svg": "/GitWeatherApp/static/media/night-1.8efa2ed4.svg",
+    "static/media/rain-1.8d0bfa19.svg": "/GitWeatherApp/static/media/rain-1.8d0bfa19.svg",
+    "static/media/rain-2.233ed438.svg": "/GitWeatherApp/static/media/rain-2.233ed438.svg",
+    "static/media/snowing-3.b9ef299a.svg": "/GitWeatherApp/static/media/snowing-3.b9ef299a.svg",
+    "static/media/storm.56feff46.svg": "/GitWeatherApp/static/media/storm.56feff46.svg",
+    "static/media/summer.871e1c69.svg": "/GitWeatherApp/static/media/summer.871e1c69.svg",
+    "static/media/sun.aa4b94b0.svg": "/GitWeatherApp/static/media/sun.aa4b94b0.svg",
+    "static/media/tornado.04b65bf7.svg": "/GitWeatherApp/static/media/tornado.04b65bf7.svg",
+    "static/media/winter.1151e24a.svg": "/GitWeatherApp/static/media/winter.1151e24a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f1cf5a01.js",
+    "static/css/2.679831fc.chunk.css",
+    "static/js/2.b8a37a45.chunk.js",
+    "static/css/main.0eb18f24.chunk.css",
+    "static/js/main.66079df7.chunk.js"
+  ]
+}
